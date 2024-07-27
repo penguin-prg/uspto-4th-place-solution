@@ -33,6 +33,8 @@ Please check the dockerfile in `/kaggle/.devcontainer`
     - `input/cpc-counts/cpc_freq.ipynb`
 4. count token frequency
     - `input/token-counts/word_freq.ipynb`
+5. generate DB for mapping cpc to patents
+    - `input/cpc2patents/save_db.ipynb`
 5. generate DB for mapping rare_token to patents
     - `input/rare-tokens/gen.ipynb`
     - `input/rare-tokens/save_db.ipynb`
