@@ -1,9 +1,9 @@
 
 This is the 4th Place Solution for the USPTO - Explainable AI for Patent Professionals (Kaggle competition).
 
-detail document: https://www.kaggle.com/competitions/uspto-explainable-ai/discussion/522200
-submission code (with magic): https://www.kaggle.com/code/ryotayoshinobu/uspto-4th-place-solution-w-magic-lb0-98
-submission code (without magic): https://www.kaggle.com/code/ryotayoshinobu/uspto-4th-place-solution-w-o-magic-lb0-91
+- detail document: https://www.kaggle.com/competitions/uspto-explainable-ai/discussion/522200
+- submission code (with magic): https://www.kaggle.com/code/ryotayoshinobu/uspto-4th-place-solution-w-magic-lb0-98
+- submission code (without magic): https://www.kaggle.com/code/ryotayoshinobu/uspto-4th-place-solution-w-o-magic-lb0-91
 
 
 # How to Reproduce (for Competition Organizers)
