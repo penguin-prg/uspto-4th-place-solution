@@ -1,5 +1,5 @@
 
-This is my part of 4th Place Solution for the USPTO - Explainable AI for Patent Professionals (Kaggle competition).
+This is the 4th Place Solution for the USPTO - Explainable AI for Patent Professionals (Kaggle competition).
 
 detail document: https://www.kaggle.com/competitions/uspto-explainable-ai/discussion/522200
 
