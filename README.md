@@ -50,7 +50,8 @@ Please check the dockerfile in `/kaggle/.devcontainer`
     - `input/preprocess-complete-v2/save_cpc_token_lists.ipynb`
     - `input/preprocess-complete-v2/save_patent_wise.ipynb`
     - `input/preprocess-complete-v2/split/gen_leveldb.ipynb`
-    - (this step will take at least 2 weeks in my environment)
+    - this step will take at least 2 weeks in my environment.
+    -  `save_cpc_token_lists` may stop due to OOM or other reasons. In that case, please execute again. (It will resume from where it left off.)
 3. generate DB for publication_number (row id) to token
     - `input/preprocess-all-token-single/save.ipynb`
     - `input/preprocess-all-token-single/gen_leveldb.ipynb`
