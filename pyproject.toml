@@ -1,0 +1,9 @@
+[tool.black]
+line-length = 100
+skip-string-normalization = true
+
+[yaml]
+editor.tabSize = 4
+
+[tool.pyright]
+exclude = ["input/*/*/"]   # 除外するフォルダ

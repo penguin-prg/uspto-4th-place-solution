@@ -1,0 +1,11 @@
+wandb:
+    project: Template
+
+dataset:
+    competition_dir: None # コンペの入力データ
+
+baseline:
+    execution:
+        exp_id: exp_0001
+        best_exp_id: exp_0001
+        seed: 46

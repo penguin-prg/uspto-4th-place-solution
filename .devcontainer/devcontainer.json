@@ -1,0 +1,23 @@
+{
+  "name": "kaggle-docker",
+  "dockerComposeFile": "docker-compose.yml",
+  "service": "playground",
+  "workspaceFolder": "/kaggle",
+  "remoteUser": "root",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "EditorConfig.EditorConfig",
+        "ms-python.python",
+        "ms-python.black-formatter",
+        "ms-python.isort",
+        "mhutchie.git-graph",
+        "njpwerner.autodocstring",
+        "github.copilot",
+        "ms-toolsai.jupyter",
+        "aaron-bond.better-comments",
+        "usernamehw.errorlens"
+      ]
+    }
+  }
+}
